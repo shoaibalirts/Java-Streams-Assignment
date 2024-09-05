@@ -1,2 +1,4 @@
-1: shoaib ali khan
-2: imran sheikh
+1: Shoaib Ali is a new web developer
+2: He has learnt Front end technologies
+3: These include HTML, CSS, JavaScript, React, VUE, Angular
+4: Now a days, he is learning Java
